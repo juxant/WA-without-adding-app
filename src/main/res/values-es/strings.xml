@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhatsApp sin agregar</string>
+    <string name="nuevo">NUEVO</string>
+    <string name="guardado">GUARDADO</string>
+    <string name="numero_de_telefono">Numero de telefono</string>
+    <string name="dialogo">¿Estas seguro que desea eliminar este elemento?</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="guardar">Guardar</string>
+    <string name="abrir_chat">ABRIR CHAT</string>
+    <string name="lista_vacia">¡No has guardado nada aún!</string>
+</resources>
